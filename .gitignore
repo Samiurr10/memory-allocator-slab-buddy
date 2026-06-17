@@ -1,0 +1,6 @@
+build/
+build-asan/
+work/
+*.o
+*.a
+*.dSYM/
